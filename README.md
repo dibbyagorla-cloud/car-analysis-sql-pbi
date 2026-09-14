@@ -85,7 +85,7 @@ The Power BI report (`dashboard/car-analysis-sql-bi.pbix`) is a single-page dash
 * **Car Sold by Model** — donut chart with all 10 models at near-equal shares (\~9.8%–10.15% each).
 * **Car Sold by Transmission** — 50/50 pie split between Manual and Automatic.
 
-!\[Car Analytics Dashboard](images/car-analysis-dashboard-pbi.png)
+!\[Car Analytics Dashboard](image/car-analysis-dashboard-pbi.png)
 
 
 
