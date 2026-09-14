@@ -87,7 +87,7 @@ The Power BI report (`dashboard/car-analysis-sql-bi.pbix`) is a single-page dash
 
 !\[Car Analytics Dashboard](images/car-analysis-dashboard-pbi.png)
 
-> \*\*Note:\*\* the dashboard screenshot above is referenced by file name as delivered in the original build, but the image file (`car-analysis-dashboard-pbi.png`) and the `.pbix` file didn't come through in this session's upload — I can describe the dashboard accurately because it rendered inline in our conversation, but I can't embed the actual binary files until they're re-uploaded. Re-attach both and I'll drop them straight into this folder and the report.
+
 
 ## How to Run This Project
 
@@ -110,8 +110,6 @@ The five previously siloed systems are now unified into a single Power BI dashbo
 5. Automate the SQL Server refresh on a schedule (e.g., nightly staging job) so the Power BI dataset doesn't require a manual refresh trigger.
 
 ## Author and Contact
-
-> \*\*Flagged for you to fill in:\*\*
 
 * **Name:** Dibbya Prakash Gorla
 * **Email:** dibbyagorla@gmail.com
